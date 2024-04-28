@@ -1,1 +1,2 @@
-console.log("Faizan")
+let accountCity = "peshawar"
+console.log(accountCity);
